@@ -14,8 +14,6 @@ momentjs:moment
 mrt:underscore-string-latest
 matb33:collection-hooks
 dburles:factory
-anti:fake
-cunneen:mailgun
 iron:router
 yasinuslu:blaze-meta
 materialize:materialize
